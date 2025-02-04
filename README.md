@@ -1,4 +1,4 @@
 # Rocky-Blood-Orange
-![Blood Orange](https://github.com/user-attachments/assets/30cad34e-d073-41c6-b662-2d4c6c3cdc07)
+![Blood Orange](https://github.com/user-attachments/assets/17ab1a4d-8004-4244-9a8e-811368453713)
 
 These themes are created all by me, I am not sure what other applications have customisable (America: customizable) themes.
