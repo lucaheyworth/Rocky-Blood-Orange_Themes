@@ -7,7 +7,9 @@
 		4. Code!
 
 # Method 2
-	This method override your current theme, may have errors and if you want to change your theme you have to follow
+	This method override your current theme, may have errors and if you want to change your theme you have to follow: 
+ 	https://github.com/lucaheyworth/Rocky-Blood-Orange_Themes/blob/main/VisualStudioCode/Uninstallation%20Instructions.md
+  	to remove it. This method is not recomended.
  	# Instuctions
 		1. Copy the contents of the vscodetheme file
 		2. Open Visual Studio Code
