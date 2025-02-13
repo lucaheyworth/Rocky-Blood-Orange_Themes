@@ -1,10 +1,10 @@
 # Method 1
 This is by far the easier method as there is no ovide of themes.
 ## Instuctions
-	- [] 1. Open Visual Studio Code
-	- [] 2. Go to the Extentions tab
-	- [] 3. Rocky Blood Orange Theme
-	- [] 4. Code!
+	1. Open Visual Studio Code
+	2. Go to the Extentions tab
+	3. Rocky Blood Orange Theme
+	4. Code!
 
 # Method 2
 This method override your current theme, may have errors and if you want to change your theme you have to follow [the uninstallation guide](https://github.com/lucaheyworth/Rocky-Blood-Orange_Themes/blob/main/VisualStudioCode/Uninstallation%20Instructions.md)
